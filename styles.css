@@ -23,8 +23,8 @@ body {
 }
 
 .blue {
-    grid-area: rgb(236, 92, 116);
-    background-color:rgb(236, 92, 116) ;
+    grid-area: blue;
+    background-color: blue;
     border-bottom-right-radius: 100%;
 }
 
